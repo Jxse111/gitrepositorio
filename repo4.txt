@@ -1,7 +1,4 @@
 Fichero repo4
-<<<<<<< HEAD
 estoy modificando el fichero repo4 en local
 modificando en local
-=======
 Estoy editando en remoto
->>>>>>> 6b616fc8be5883afd1fd2e984b0df4e3ae58727e
