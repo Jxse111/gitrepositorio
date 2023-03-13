@@ -1,2 +1,0 @@
-crear repo4.txt
-Estoy editando en remoto
